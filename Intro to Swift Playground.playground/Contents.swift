@@ -21,6 +21,21 @@ var myThirdVariable = myFirstVariable + mySecondVariable
 
 print(myThirdVariable)
 
+var myFourthVariable: String
+
+myFourthVariable = "I made a fourth one"
+
+var myFifthVariable: String
+
+myFifthVariable = "and a fifth one"
+
+var mySixthVariable: String
+
+mySixthVariable = " and a sixth one"
+
+var mySeventhVariable = myFourthVariable + myFifthVariable + mySixthVariable
+
+print(mySeventhVariable)
 
 
 
