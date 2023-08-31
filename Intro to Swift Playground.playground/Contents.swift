@@ -54,5 +54,11 @@ var comparison = numberOne > numberTwo
 
 //Part 7 on my own Part 1:
 
+var numberThree: String
+numberThree = "eight"
+var numberFour: String
+numberFour = "eight"
+var comparisonTwo = numberThree == numberFour
+print(comparisonTwo)
 
 //Part 8 on my own Part 2:
